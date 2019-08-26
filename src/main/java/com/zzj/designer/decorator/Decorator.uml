@@ -7,7 +7,7 @@
     <node x="384.0" y="277.0">com.zzj.designer.decorator.contrete.RedisHelper</node>
     <node x="0.0" y="277.0">com.zzj.designer.decorator.contrete.MysqlHelper</node>
     <node x="398.5" y="138.5">com.zzj.designer.decorator.DBHelper</node>
-    <node x="221.68181818181813" y="152.45454545454544">com.zzj.designer.decorator.BaseHelper</node>
+    <node x="173.5" y="121.54545454545456">com.zzj.designer.decorator.BaseHelper</node>
     <node x="299.75" y="0.0">com.zzj.designer.decorator.HelperEntry</node>
   </nodes>
   <notes />
@@ -41,7 +41,7 @@
       <point x="-37.5" y="38.5" />
     </edge>
   </edges>
-  <settings layout="Hierarchic Group" zoom="1.1" x="248.2727272727272" y="199.54545454545453" />
+  <settings layout="Hierarchic Group" zoom="1.1" x="248.0" y="200.0" />
   <SelectedNodes>
     <node>com.zzj.designer.decorator.BaseHelper</node>
   </SelectedNodes>
