@@ -3,50 +3,50 @@
   <ID>JAVA</ID>
   <OriginalElement>com.zzj.designer.decorator.HelperEntry</OriginalElement>
   <nodes>
-    <node x="188.0" y="277.0">com.zzj.designer.decorator.contrete.MongoHelper</node>
-    <node x="384.0" y="277.0">com.zzj.designer.decorator.contrete.RedisHelper</node>
-    <node x="0.0" y="277.0">com.zzj.designer.decorator.contrete.MysqlHelper</node>
-    <node x="398.5" y="138.5">com.zzj.designer.decorator.DBHelper</node>
-    <node x="173.5" y="121.54545454545456">com.zzj.designer.decorator.BaseHelper</node>
-    <node x="299.75" y="0.0">com.zzj.designer.decorator.HelperEntry</node>
+    <node x="371.0" y="278.0">com.zzj.designer.decorator.contrete.MongoHelper</node>
+    <node x="187.99999999999997" y="278.0">com.zzj.designer.decorator.contrete.RedisHelper</node>
+    <node x="0.0" y="278.0">com.zzj.designer.decorator.contrete.MysqlHelper</node>
+    <node x="370.0" y="139.0">com.zzj.designer.decorator.DBHelper</node>
+    <node x="188.99999999999997" y="127.0">com.zzj.designer.decorator.BaseHelper</node>
+    <node x="282.25" y="0.0">com.zzj.designer.decorator.HelperEntry</node>
   </nodes>
   <notes />
   <edges>
     <edge source="com.zzj.designer.decorator.DBHelper" target="com.zzj.designer.decorator.HelperEntry">
       <point x="0.0" y="-38.5" />
-      <point x="473.5" y="102.0" />
-      <point x="412.25" y="102.0" />
+      <point x="445.0" y="102.0" />
+      <point x="394.75" y="102.0" />
       <point x="37.5" y="38.5" />
     </edge>
     <edge source="com.zzj.designer.decorator.contrete.MongoHelper" target="com.zzj.designer.decorator.BaseHelper">
       <point x="0.0" y="-61.5" />
-      <point x="0.0" y="50.0" />
+      <point x="459.0" y="253.0" />
+      <point x="323.16666666666663" y="253.0" />
+      <point x="53.66666666666663" y="50.5" />
     </edge>
     <edge source="com.zzj.designer.decorator.contrete.RedisHelper" target="com.zzj.designer.decorator.BaseHelper">
       <point x="0.0" y="-61.5" />
-      <point x="465.5" y="252.0" />
-      <point x="344.3333333333333" y="252.0" />
-      <point x="68.33333333333331" y="50.0" />
+      <point x="0.0" y="50.5" />
     </edge>
     <edge source="com.zzj.designer.decorator.contrete.MysqlHelper" target="com.zzj.designer.decorator.BaseHelper">
       <point x="0.0" y="-61.5" />
-      <point x="84.0" y="252.0" />
-      <point x="207.66666666666669" y="252.0" />
-      <point x="-68.33333333333331" y="50.0" />
+      <point x="84.0" y="253.0" />
+      <point x="215.83333333333331" y="253.0" />
+      <point x="-53.66666666666666" y="50.5" />
     </edge>
     <edge source="com.zzj.designer.decorator.BaseHelper" target="com.zzj.designer.decorator.HelperEntry">
-      <point x="0.0" y="-50.0" />
-      <point x="276.0" y="102.0" />
-      <point x="337.25" y="102.0" />
+      <point x="0.0" y="-50.5" />
+      <point x="269.5" y="102.0" />
+      <point x="319.75" y="102.0" />
       <point x="-37.5" y="38.5" />
     </edge>
   </edges>
-  <settings layout="Hierarchic Group" zoom="1.1" x="248.0" y="200.0" />
-  <SelectedNodes>
-    <node>com.zzj.designer.decorator.BaseHelper</node>
-  </SelectedNodes>
+  <settings layout="Hierarchic Group" zoom="1.1" x="248.0" y="269.54545454545456" />
+  <SelectedNodes />
   <Categories>
     <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
   </Categories>
   <SCOPE>All</SCOPE>
   <VISIBILITY>private</VISIBILITY>
