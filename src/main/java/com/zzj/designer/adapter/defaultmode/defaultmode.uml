@@ -3,89 +3,41 @@
   <ID>JAVA</ID>
   <OriginalElement>com.zzj.designer.adapter.defaultmode.ZZZTest</OriginalElement>
   <nodes>
-    <node x="329.7628787878788" y="346.0">com.zzj.designer.adapter.defaultmode.AdapterThree</node>
-    <node x="54.49999999999994" y="357.5">com.zzj.designer.adapter.defaultmode.AdapterTwo</node>
-    <node x="10.5" y="196.0">com.zzj.designer.adapter.defaultmode.TargetTwo</node>
-    <node x="420.50000000000006" y="184.5">com.zzj.designer.adapter.defaultmode.TargetThree</node>
-    <node x="51.92424242424238" y="0.0">com.zzj.designer.adapter.defaultmode.Cases</node>
-    <node x="73.49999999999994" y="544.0">com.zzj.designer.adapter.defaultmode.ZZZTest</node>
-    <node x="215.5" y="173.0">com.zzj.designer.adapter.defaultmode.AdapterHolder</node>
+    <node x="207.0" y="342.0">com.zzj.designer.adapter.defaultmode.AdapterThree</node>
+    <node x="0.0" y="353.5">com.zzj.designer.adapter.defaultmode.AdapterTwo</node>
+    <node x="0.0" y="533.0">com.zzj.designer.adapter.defaultmode.TargetTwo</node>
+    <node x="457.0" y="0.0">com.zzj.designer.adapter.defaultmode.TargetThree</node>
+    <node x="123.0" y="0.0">com.zzj.designer.adapter.defaultmode.Cases</node>
+    <node x="202.0" y="533.0">com.zzj.designer.adapter.defaultmode.ZZZTest</node>
+    <node x="123.0" y="171.0">com.zzj.designer.adapter.defaultmode.AdapterHolder</node>
   </nodes>
   <notes />
   <edges>
-    <edge source="com.zzj.designer.adapter.defaultmode.ZZZTest" target="com.zzj.designer.adapter.defaultmode.AdapterThree">
-      <point x="35.39999999999998" y="-27.0" />
-      <point x="197.39999999999992" y="514.0" />
-      <point x="446.2628787878788" y="514.0" />
-      <point x="0.0" y="74.0" />
-    </edge>
-    <edge source="com.zzj.designer.adapter.defaultmode.ZZZTest" target="com.zzj.designer.adapter.defaultmode.AdapterTwo">
-      <point x="0.0" y="-27.0" />
-      <point x="0.0" y="62.5" />
-    </edge>
-    <edge source="com.zzj.designer.adapter.defaultmode.ZZZTest" target="com.zzj.designer.adapter.defaultmode.TargetTwo">
-      <point x="-35.400000000000034" y="-27.0" />
-      <point x="126.59999999999991" y="514.0" />
-      <point x="35.304545454545405" y="514.0" />
-      <point x="35.304545454545405" y="321.0" />
-      <point x="41.333333333333314" y="321.0" />
-      <point x="-61.666666666666686" y="38.5" />
-    </edge>
     <edge source="com.zzj.designer.adapter.defaultmode.AdapterHolder" target="com.zzj.designer.adapter.defaultmode.Cases">
-      <point x="0.0" y="-61.5" />
-      <point x="308.0" y="148.0" />
-      <point x="190.67424242424238" y="148.0" />
-      <point x="46.25" y="61.5" />
-    </edge>
-    <edge source="com.zzj.designer.adapter.defaultmode.AdapterTwo" target="com.zzj.designer.adapter.defaultmode.TargetTwo">
-      <point x="-71.66666666666663" y="-62.5" />
-      <point x="90.33333333333331" y="321.0" />
-      <point x="103.0" y="321.0" />
-      <point x="0.0" y="38.5" />
+      <point x="0.0" y="-60.5" />
+      <point x="0.0" y="60.5" />
     </edge>
     <edge source="com.zzj.designer.adapter.defaultmode.AdapterTwo" target="com.zzj.designer.adapter.defaultmode.AdapterHolder">
-      <point x="71.66666666666669" y="-62.5" />
-      <point x="233.66666666666663" y="321.0" />
-      <point x="261.75" y="321.0" />
-      <point x="-46.25" y="61.5" />
-    </edge>
-    <edge source="com.zzj.designer.adapter.defaultmode.ZZZTest" target="com.zzj.designer.adapter.defaultmode.Cases">
-      <point x="-70.80000000000001" y="-27.0" />
-      <point x="91.19999999999993" y="524.0" />
-      <point x="0.0" y="524.0" />
-      <point x="0.0" y="148.0" />
-      <point x="98.17424242424238" y="148.0" />
-      <point x="-46.25" y="61.5" />
-    </edge>
-    <edge source="com.zzj.designer.adapter.defaultmode.ZZZTest" target="com.zzj.designer.adapter.defaultmode.TargetThree">
-      <point x="70.80000000000001" y="-27.0" />
-      <point x="232.79999999999995" y="524.0" />
-      <point x="573.2628787878789" y="524.0" />
-      <point x="573.2628787878789" y="321.0" />
-      <point x="574.6666666666667" y="321.0" />
-      <point x="61.66666666666663" y="50.0" />
-    </edge>
-    <edge source="com.zzj.designer.adapter.defaultmode.AdapterThree" target="com.zzj.designer.adapter.defaultmode.TargetThree">
-      <point x="-2.8421709430404007E-14" y="-74.0" />
-      <point x="446.2628787878788" y="321.0" />
-      <point x="451.33333333333337" y="321.0" />
-      <point x="-61.666666666666664" y="50.0" />
+      <point x="0.0" y="-61.5" />
+      <point x="93.5" y="317.0" />
+      <point x="162.25" y="317.0" />
+      <point x="-39.25" y="60.5" />
     </edge>
     <edge source="com.zzj.designer.adapter.defaultmode.AdapterThree" target="com.zzj.designer.adapter.defaultmode.AdapterHolder">
-      <point x="-77.66666666666671" y="-74.0" />
-      <point x="368.5962121212121" y="321.0" />
-      <point x="354.25" y="321.0" />
-      <point x="46.25" y="61.5" />
+      <point x="0.0" y="-73.0" />
+      <point x="309.5" y="317.0" />
+      <point x="240.75" y="317.0" />
+      <point x="39.25" y="60.5" />
     </edge>
   </edges>
-  <settings layout="Hierarchic Group" zoom="1.0" x="308.0" y="299.0" />
+  <settings layout="Hierarchic Group" zoom="1.0" x="307.0" y="304.0" />
   <SelectedNodes />
   <Categories>
     <Category>Fields</Category>
-    <Category>Inner Classes</Category>
     <Category>Constructors</Category>
-    <Category>Properties</Category>
     <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
   </Categories>
   <SCOPE>All</SCOPE>
   <VISIBILITY>private</VISIBILITY>
