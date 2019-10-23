@@ -29,6 +29,13 @@
             <artifactId>lombok</artifactId>
             <version>1.18.8</version>
         </dependency>
+		<!-- https://mvnrepository.com/artifact/cglib/cglib -->
+		<!--动态代理使用-->
+		<dependency>
+			<groupId>cglib</groupId>
+			<artifactId>cglib</artifactId>
+			<version>3.3.0</version>
+		</dependency>
 
 
         <dependency>
